@@ -1,0 +1,12 @@
+.place__link {
+  color: white;
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: 400;
+  display: block;
+  margin-top: 12px;
+}
+
+.place__link:hover {
+  color: #d5d5d5;
+}

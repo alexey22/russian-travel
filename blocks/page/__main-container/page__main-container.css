@@ -1,0 +1,17 @@
+.page__main-container {
+  margin: 0 auto;
+  max-width: 1280px;
+  padding: 0 48px;
+}
+
+@media screen and (max-width: 768px) {
+  .page__main-container {
+    padding: 0 24px;
+  }
+}
+
+@media screen and (max-width: 425px) {
+  .page__main-container {
+    padding: 0 16px;
+  }
+}
