@@ -6,6 +6,10 @@
 - Figma
 - Инструкция
 
+**Github Pages**
+
+[https://alexey22.github.io/russian-travel/](https://alexey22.github.io/russian-travel/)
+
 **Интро**
 
 Проект о путешествии по России. Дает обзор о достопримечательностях, которые вы можете посетить в России.
